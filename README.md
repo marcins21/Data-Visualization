@@ -16,7 +16,12 @@
 |                                                              |   
 
 
+
+
+
 # main_page.py
+
+![main_page](https://github.com/marcins21/Data-Visualization/assets/62626012/539c4191-dd0c-424a-be6d-413580ed3b76)
 
 ### Importowane biblioteki:
     streamlit - służy do tworzenia interfejsu użytkownika.
@@ -32,6 +37,17 @@
 
     home_page(data) - funkcja reprezentująca stronę główną. Tworzy różne wykresy i interaktywne elementy na stronie, takie jak przyciski rozwijane, zakładki, kontener do odtwarzania muzyki itp.
 # charts.py
+![best_album](https://github.com/marcins21/Data-Visualization/assets/62626012/f90311ad-ae69-4516-b87b-204020558263)
+![how much they earn](https://github.com/marcins21/Data-Visualization/assets/62626012/37a38f75-2c0d-4ffa-82c8-f443acfe2099)
+
+![mapa](https://github.com/marcins21/Data-Visualization/assets/62626012/bda74abc-72e6-4d68-977d-65a91b1e8ed7)
+
+![simi;ar](https://github.com/marcins21/Data-Visualization/assets/62626012/ce478f63-cdcb-4c18-9998-db712083dbd1)
+![menu](https://github.com/marcins21/Data-Visualization/assets/62626012/25bf79bb-2c0f-4378-b39e-15a2e1b54e11)
+
+
+
+
 **_NOTE:_** Moduł służący do implementacji wykresów 
 
 # spotifySt.py
